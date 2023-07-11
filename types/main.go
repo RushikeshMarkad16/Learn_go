@@ -25,10 +25,10 @@ func main() {
 	name := first + " " + last
 	fmt.Println("My name is", name)
 
-	// i := 55      //int
-	// j := 67.8    //float64
-	// sum := i + j //int + float64 not allowed
-	// fmt.Println(sum)
+	i := 55      //int
+	j := 67.8    //float64
+	sum := i + j //int + float64 not allowed
+	fmt.Println(sum)
 
 	//Type COnversion
 	i := 55           //int
